@@ -1,5 +1,5 @@
 # LatencyOverlay
- Quick Latency Overlay I made while using a bad internet connection just to monitor ping and packet loss.
+ Só uma sobreposição de ping e packet loss que eu fiz para monitorar a conexão quando estava com uma internet péssima.
 
 ## Como usar
 
