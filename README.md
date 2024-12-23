@@ -1,5 +1,6 @@
 # LatencyOverlay
  Só uma sobreposição de ping e packet loss que eu fiz para monitorar a conexão quando estava com uma internet péssima.
+ ![image](https://github.com/user-attachments/assets/266568af-f0c2-4983-b208-0f88c5ea8ea4)
 
 ## Como usar
 
